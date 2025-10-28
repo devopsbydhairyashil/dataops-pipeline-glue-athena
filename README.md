@@ -19,7 +19,7 @@ You can test the DAGs locally with a lightweight Airflow install or use a manage
 
 ---
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/dhairyashil-bhosale
+Connect with me on LinkedIn: https://www.linkedin.com/in/dhairyashilclouddevops/
 
 
 ---
